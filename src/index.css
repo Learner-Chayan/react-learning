@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+fieldset {
+  font-size: 80%;
+  margin-bottom: 5%;
+}
+fieldset legend {
+  color:yellowgreen
+}
